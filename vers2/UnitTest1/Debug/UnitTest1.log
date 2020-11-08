@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\Костя\source\repos\ConsoleApplication1\UnitTest1\UnitTest1.cpp(129,11): warning C4101: k: неиспользованная локальная переменная
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\╩юёЄ \source\repos\ConsoleApplication1\Debug\UnitTest1.lib ш юс·хъЄ C:\Users\╩юёЄ \source\repos\ConsoleApplication1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Костя\source\repos\ConsoleApplication1\Debug\UnitTest1.dll

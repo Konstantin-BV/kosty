@@ -1,0 +1,13 @@
+﻿  ConsoleApplication26.cpp
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(85,12): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(85,9): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(85,6): warning C4101: t: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(114,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(171,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(220,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(146,16): warning C4101: end: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(144,12): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(146,9): warning C4101: start: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(145,6): warning C4101: Random: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(137): warning C4715: BinarySearch: значение возвращается не при всех путях выполнения
+  ConsoleApplication26.vcxproj -> C:\Users\Костя\source\repos\ConsoleApplication26\x64\Debug\ConsoleApplication26.exe

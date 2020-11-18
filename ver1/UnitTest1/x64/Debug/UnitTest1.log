@@ -1,0 +1,13 @@
+﻿  UnitTest1.cpp
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(84,12): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(84,9): warning C4101: c: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(84,6): warning C4101: t: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(113,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(164,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(143,12): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(143,9): warning C4101: w: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication26\UnitTest1\UnitTest1.cpp(42,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Костя\source\repos\ConsoleApplication26\UnitTest1\UnitTest1.cpp(50,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Костя\source\repos\ConsoleApplication26\ConsoleApplication26\ConsoleApplication26.cpp(136): warning C4715: BinarySearch: значение возвращается не при всех путях выполнения
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\╩юёЄ \source\repos\ConsoleApplication26\x64\Debug\UnitTest1.lib ш юс·хъЄ C:\Users\╩юёЄ \source\repos\ConsoleApplication26\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Костя\source\repos\ConsoleApplication26\x64\Debug\UnitTest1.dll

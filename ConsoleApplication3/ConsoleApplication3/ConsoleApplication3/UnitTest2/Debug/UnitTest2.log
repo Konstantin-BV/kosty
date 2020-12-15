@@ -1,0 +1,4 @@
+﻿  UnitTest2.cpp
+C:\Users\Костя\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(16,20): warning C4101: position: неиспользованная локальная переменная
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\╩юёЄ \source\repos\ConsoleApplication3\Debug\UnitTest2.lib ш юс·хъЄ C:\Users\╩юёЄ \source\repos\ConsoleApplication3\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\Костя\source\repos\ConsoleApplication3\Debug\UnitTest2.dll

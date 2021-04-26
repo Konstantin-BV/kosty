@@ -1,0 +1,7 @@
+﻿  List.cpp
+C:\Users\kosty\source\repos\lab3_c\lab3_c\List.h(89,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  lab3_c.cpp
+C:\Users\kosty\source\repos\lab3_c\lab3_c\List.h(89,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kosty\source\repos\lab3_c\lab3_c\lab3_c.cpp(24,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  lab3_c.vcxproj -> C:\Users\kosty\source\repos\lab3_c\Debug\lab3_c.exe

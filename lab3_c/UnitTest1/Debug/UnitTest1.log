@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\kosty\source\repos\lab3_c\lab3_c\List.h(89,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     Создается библиотека C:\Users\kosty\source\repos\lab3_c\Debug\UnitTest1.lib и объект C:\Users\kosty\source\repos\lab3_c\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\kosty\source\repos\lab3_c\Debug\UnitTest1.dll

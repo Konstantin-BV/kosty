@@ -1,0 +1,8 @@
+S A 30
+S B 20
+S C 40
+A C 50
+C B 20
+A T 40
+B T 30
+C T 30

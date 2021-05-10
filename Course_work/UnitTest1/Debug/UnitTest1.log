@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+C:\Users\kosty\source\repos\Course_work\UnitTest1\UnitTest1.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  UnitTest1.vcxproj -> C:\Users\kosty\source\repos\Course_work\Debug\UnitTest1.dll

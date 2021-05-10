@@ -1,0 +1,7 @@
+﻿  Course_work.cpp
+C:\Users\kosty\source\repos\Course_work\Course_work\Course_work.cpp(24,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kosty\source\repos\Course_work\Course_work\Course_work.cpp(15,9): warning C4101: cost2: неиспользованная локальная переменная
+C:\Users\kosty\source\repos\Course_work\Course_work\Course_work.cpp(14,9): warning C4101: cost1: неиспользованная локальная переменная
+  Way.cpp
+  Создание кода...
+  Course_work.vcxproj -> C:\Users\kosty\source\repos\Course_work\Debug\Course_work.exe
